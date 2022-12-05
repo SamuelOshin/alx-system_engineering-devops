@@ -1,1 +1,1 @@
-script that prints “Hello, World”
+SHELL I/O REDIRECTION
